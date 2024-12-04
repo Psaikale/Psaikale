@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pankaj
 - 👀 I’m interested in Software Tester
-- 🌱 I’m currently learning API Testing, BDD Cucumber etc.
+- 🌱 I’m currently learning API Testing, BDD Cucumber, Jmeter.
 - 💞️ I’m looking to collaborate on Testing
 - 📫 How to reach me Please visite my GitHub 
 - 😄 Pronouns: ... Pankaj
